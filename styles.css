@@ -1,0 +1,42 @@
+.HTML-section {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.HTML-section h1 {
+    background-color: #003049;
+    color: white;
+}
+
+.CSS-section {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.CSS-section h1 {
+    background-color: #d62828;
+    color: white;
+}
+
+.JS-section {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.JS-section h1 {
+    background-color: #f77f00;
+    color: white;
+}
+
+thead {
+    background-color: #A499B3;
+    color: white;
+}
+
+tbody {
+    background-color: #eae2b7;
+    color: #003049
+}
+
+code {
+    font-family: monospace;
+}
